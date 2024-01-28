@@ -7,8 +7,7 @@ import ArticleListPage from './pages/ArticleListPage';
 import ArticlePage from './pages/ArticlePage';
 import NotFoundPage from './pages/NotFoundPage';
 function App() {
-  return (
-
+  return(
     <BrowserRouter>
     <div className="App">
       <Navbar />
